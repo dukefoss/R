@@ -6,6 +6,9 @@ library('rvest')
 library('xml2')
 library("WriteXLS")
 
+
+
+hei ole gunnar
 # Set path to xls file
 setwd('C:\\Users\\username\\folder')
 
